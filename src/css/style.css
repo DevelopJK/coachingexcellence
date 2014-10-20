@@ -64,7 +64,7 @@ img {
     background-color: lightgray;
 }
 
-.no-margin {
+#sect3, #sect6 {
     margin-right: 0;
 }
 
@@ -79,4 +79,33 @@ h2 {
     margin-bottom: .5em;
     width: 30%;
 }
+
+
+
+
+
+
+/*------------------------------------------------------------------------------*/
+
+@media only screen and (max-width: 899px) {
+    #page-content {
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+    
+    .section {
+        width: 45%;
+        margin-right: 2%;   
+        padding: 1em 2%;
+    }
+
+    #sect1, #sect3, #sect5 {
+        margin-right: 2%;
+    }
+    #sect2, #sect4, sect6 {
+        margin-right: 0%;
+    }
+
+}
+
 
