@@ -1,0 +1,50 @@
+
+@font-face {
+font-family: SourceSans;
+src: url("fonts/TeleGroEESem.otf");
+}
+
+body {
+    font-family: SourceSans, Helvetica, Arial, sans-serif;
+    background-color: #FFFFFF;    
+}
+
+#page-header {
+    background-color: gray;
+    text-align: center;
+}
+
+#page-content {
+    margin: 1em 0;
+}
+
+#page-footer {
+    padding: .75em 1em 2em 1em;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+
+
+#container {
+    position: relative;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height:100%;
+    
+    
+}
+
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+
+#inconstruction {
+    text-align: center;
+    margin: 10em 0;
+}
