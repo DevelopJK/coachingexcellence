@@ -1,7 +1,7 @@
 
 @font-face {
-font-family: SourceSans;
-src: url("fonts/TeleGroEESem.otf");
+    font-family: SourceSans;
+    src: url("fonts/TeleGroEESem.otf");
 }
 
 body {
@@ -16,6 +16,7 @@ body {
 
 #page-content {
     margin: 1em 0;
+    overflow: hidden;
 }
 
 #page-footer {
@@ -48,3 +49,34 @@ img {
     text-align: center;
     margin: 10em 0;
 }
+
+.section {
+    overflow: hidden;
+    float: left;
+    width: 28%;
+    margin-right: 2%;
+    margin-bottom: 1em;
+    min-height: 15em;
+    
+    padding: 1em 2%;
+    
+    border-radius: .5em;
+    background-color: lightgray;
+}
+
+.no-margin {
+    margin-right: 0;
+}
+
+h2 {
+    font-weight: bold;
+    margin-bottom: .5em;
+}
+
+.txt-img {
+    float: right;
+    margin-left: 1em;
+    margin-bottom: .5em;
+    width: 30%;
+}
+
