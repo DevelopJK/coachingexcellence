@@ -29,6 +29,7 @@ body {
     text-align: center;
     list-style: initial;
     min-height: 100px;
+    overflow: auto;
 }
 
 
