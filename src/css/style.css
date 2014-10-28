@@ -1,12 +1,13 @@
 
 @font-face {
-    font-family: SourceSans;
+    font-family: MyFont;
     src: url("fonts/TeleGroEESem.otf");
 }
 
 body {
-    font-family: SourceSans, Helvetica, Arial, sans-serif;
-    background-color: #FDFDFD;    
+    font-family: MyFont, Helvetica, Arial, sans-serif;
+    color: #333333;
+    background-color: #E7580F;    
 }
 
 #page-header {
@@ -20,17 +21,19 @@ body {
 }
 
 #page-footer {
-    padding: .75em 1em 2em 1em;
-    background-color: gray;
+    padding: 1.75em 1em 4em 1em;
+    background-color: rgb(58, 56, 56);
     color: white;
     text-align: center;
+    list-style: initial;
+    min-height: 100px;
 }
 
 
 
 #container {
     position: relative;
-    max-width: 900px;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
     min-height:100%;
@@ -83,7 +86,21 @@ h2 {
 }
 
 
+.footer-col {
+    float: left;
+    width: 20%;
+    padding-left: 10%;
+    padding-right: 3%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
 
+.footer-col a, .footer-col a:visited {
+    display: block;
+    text-align: left;
+    text-decoration: underline;
+    color: lightgray;
+}
 
 
 
