@@ -1,11 +1,13 @@
 
-@font-face {
+/*@font-face {
     font-family: MyFont;
     src: url("fonts/TeleGroEESem.otf");
-}
+}*/
 
 body {
-    font-family: MyFont, Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    /*font-family: MyFont, Helvetica, Arial, sans-serif;*/
+    line-height: 1.45em;
     color: #333333;
     background-color: #E7580F;    
 }
@@ -61,7 +63,7 @@ img {
     width: 28%;
     margin-right: 2%;
     margin-bottom: 1em;
-    min-height: 15em;
+    min-height: 21em;
     
     padding: 1em 2%;
     
@@ -73,9 +75,10 @@ img {
     margin-right: 0;
 }
 
-h2 {
+.section h2 {
     font-weight: bold;
     margin-bottom: .5em;
+    font-size: 140%;
 }
 
 .txt-img {
