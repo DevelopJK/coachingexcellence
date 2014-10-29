@@ -1,0 +1,145 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29.10.2014, 0:59:49
+    Author     : Jirka
+*/
+
+
+/*@font-face {
+    font-family: MyFont;
+    src: url("fonts/TeleGroEESem.otf");
+}*/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    /*font-family: MyFont, Helvetica, Arial, sans-serif;*/
+    line-height: 1.45em;
+    color: #333333;
+    background-color: firebrick;    
+}
+
+#page-header {
+    text-align: center;
+}
+
+#page-content {
+    margin: 1em 0;
+    overflow: hidden;
+}
+
+#page-footer {
+    padding: 1.75em 1em 4em 1em;
+    background-color: rgb(58, 56, 56);
+    color: white;
+    text-align: center;
+    list-style: initial;
+    min-height: 100px;
+    overflow: hidden;
+}
+
+
+
+#container {
+    position: relative;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height:100%;
+    
+    
+}
+
+
+img {
+    width: 100%;
+    
+}
+
+
+
+
+#inconstruction {
+    text-align: center;
+    margin: 10em 0;
+}
+
+.section {
+    overflow: hidden;
+    float: left;
+    width: 28%;
+    margin-right: 2%;
+    margin-bottom: 1em;
+    min-height: 21em;
+    
+    padding: 1em 2%;
+    
+    border-radius: .5em;
+    background-color: rgb(252, 183, 3);
+}
+
+#sect3, #sect6 {
+    margin-right: 0;
+}
+
+.section h2 {
+    font-weight: bold;
+    margin-bottom: .5em;
+    font-size: 140%;
+}
+
+.txt-img {
+    float: right;
+    margin-left: 1em;
+    margin-bottom: .5em;
+    width: 30%;
+}
+
+
+.footer-col {
+    float: left;
+    width: 20%;
+    padding-left: 10%;
+    padding-right: 3%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.footer-col a, .footer-col a:visited {
+    display: block;
+    text-align: left;
+    text-decoration: underline;
+    color: lightgray;
+    margin-bottom: 0.9em;
+    line-height: 1em;
+}
+
+
+
+/*------------------------------------------------------------------------------*/
+
+@media only screen and (max-width: 899px) {
+    #page-content {
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+    
+    .section {
+        width: 45%;
+        margin-right: 2%;   
+        padding: 1em 2%;
+    }
+
+    #sect1, #sect3, #sect5 {
+        margin-right: 2%;
+    }
+    #sect2, #sect4, sect6 {
+        margin-right: 0%;
+    }
+
+}
+
+
