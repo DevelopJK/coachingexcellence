@@ -19,7 +19,7 @@ body {
     /*font-family: MyFont, Helvetica, Arial, sans-serif;*/
     line-height: 1.45em;
     color: #333333;
-    background-color: firebrick;    
+    background-color: rgb(249, 255, 0);    
 }
 
 #page-header {
@@ -78,7 +78,7 @@ img {
     padding: 1em 2%;
     
     border-radius: .5em;
-    background-color: rgb(252, 183, 3);
+    background-color: rgba(252, 183, 3, 0.29);
 }
 
 #sect3, #sect6 {
