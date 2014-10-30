@@ -9,7 +9,7 @@ body {
     /*font-family: MyFont, Helvetica, Arial, sans-serif;*/
     line-height: 1.45em;
     color: #333333;
-    background-color: #FAF99A;    
+    background-color: #FFFFFF;    
 }
 
 #page-header {
@@ -57,22 +57,52 @@ img {
     margin: 10em 0;
 }
 
-.section {
+.section-motto {
     overflow: hidden;
     float: left;
-    width: 28%;
+    width: 94%;
     margin-right: 2%;
     margin-bottom: 1em;
-    min-height: 21em;
+    min-height: 6em;
     
     padding: 1em 2%;
     
     border-radius: .5em;
-    background-color: rgb(252, 183, 3);
+    background-color: yellow;
+}
+
+.section {
+    overflow: hidden;
+    float: left;
+    width: 19%;
+    margin-right: 2%;
+    margin-bottom: 1em;
+    min-height: 19em;
+    
+    padding: 1em 2%;
+    
+    border-radius: .5em;
+    background-color: yellow;
+}
+
+
+
+.sect0{
+    overflow: hidden;
+    float: left;
+    width: 19%;
+    margin-right: 2%;
+    margin-bottom: 1em;
+    min-height: 19em;
+    
+    padding: 1em 2%;
+    
+    border-radius: .5em;
+    background-color: yellow;
 }
 
 #sect3, #sect6 {
-    margin-right: 0;
+    margin-left: 0%;
 }
 
 .section h2 {
