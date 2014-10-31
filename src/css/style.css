@@ -10,6 +10,7 @@ body {
     line-height: 1.45em;
     color: #333333;
     background-color: #FFFFFF;    
+    font-size: 96%;
 }
 
 #page-header {
@@ -76,8 +77,8 @@ img {
     float: left;
     width: 19%;
     margin-right: 2%;
-    margin-bottom: 1em;
-    min-height: 19em;
+    margin-bottom: 1.5em;
+    min-height: 20em;
     
     padding: 1em 2%;
     
@@ -122,8 +123,8 @@ img {
 
 .footer-col {
     float: left;
-    width: 20%;
-    padding-left: 10%;
+    width: 15%;
+    padding-left: 6%;
     padding-right: 3%;
     padding-top: 1em;
     padding-bottom: 1em;
