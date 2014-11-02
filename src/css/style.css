@@ -114,7 +114,7 @@ img {
     padding: 2em 2%;
 
     border-radius: .5em;
-    background-color: yellow;
+    background-color: rgb(255, 255, 103);
     text-align: center;
     font-size: 103%;
     position: relative;
@@ -195,6 +195,15 @@ color: rgb(61, 61, 61);
     color: lightgray;
     margin-bottom: 0.9em;
     line-height: 1em;
+}
+
+#footer-line{
+    border-bottom: 1px gray solid;
+    overflow: hidden;
+    
+    
+    
+    padding-bottom: 3em;
 }
 
 
