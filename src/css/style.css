@@ -121,7 +121,7 @@ img {
 }
 
 .sub-section-bgr-text {
-    background-color: rgb(58, 56, 56);
+    background-color: rgb(240, 222, 33);
     height: 2.5em;
     position: absolute;
     top: 0;
@@ -132,12 +132,15 @@ img {
 
 .sub-section-bgr-text h2 {
     
-color: lightgrey;
+color: rgb(61, 61, 61);
 
 }
  
 .section-text{
     padding-top: 3em;
+    padding-left: 1em;
+    padding-right: 1em;
+    line-height: 161%;
 }
 
 .motto {
