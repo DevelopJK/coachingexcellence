@@ -117,9 +117,28 @@ img {
     background-color: yellow;
     text-align: center;
     font-size: 103%;
+    position: relative;
 }
 
+.sub-section-bgr-text {
+    background-color: rgb(58, 56, 56);
+    height: 2.5em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-top: 1em;
+}
 
+.sub-section-bgr-text h2 {
+    
+color: lightgrey;
+
+}
+ 
+.section-text{
+    padding-top: 3em;
+}
 
 .motto {
     overflow: hidden;
