@@ -7,12 +7,24 @@
 body {
     font-family: 'Open Sans', sans-serif;
     /*font-family: MyFont, Helvetica, Arial, sans-serif;*/
+    
     line-height: 1.45em;
     color: #333333;
     background-color: #FFFFFF;    
     font-size: 96%;
 }
 
+b {
+    font-family: 'Open Sans', sans-serif;
+    /*font-family: 'Arial', sans-serif;*/
+    font-weight: bold;
+}
+
+i {
+    
+    font-style:italic;
+
+}
 #top-menu {
     position: absolute;
     top: 0;
