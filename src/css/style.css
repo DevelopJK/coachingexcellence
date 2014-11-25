@@ -28,7 +28,7 @@ i {
 #top-menu {
     position: absolute;
     top: 0;
-    left: 0;
+    left: 0px;
     width: 100%;
 
     display: block;
@@ -41,14 +41,15 @@ background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,
 background: -webkit-linear-gradient(top, rgba(255,255,31,1) 0%, rgba(255,255,255,1) 76%, rgba(255,255,255,1) 100%);
 background: -o-linear-gradient(top, rgba(255,255,31,1) 0%, rgba(255,255,255,1) 76%, rgba(255,255,255,1) 100%);
 background: -ms-linear-gradient(top, rgba(255,255,31,1) 0%, rgba(255,255,255,1) 76%, rgba(255,255,255,1) 100%);
-background: linear-gradient(to bottom, rgba(255,255,31,1) 0%, rgba(255,255,255,1) 76%, rgba(255,255,255,1) 100%);
+
+    background: linear-gradient(to bottom, rgba(250, 250, 125, 1) 0%, rgba(255,255,255,1) 76%, rgba(255,255,255,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffff1f', endColorstr='#ffffff', GradientType=0 );
 }
 
 #top-menu a, #top-menu a:visited {
     display: inline-block;
     margin-right: 2em;
-    width: 7%;
+    /* width: 13%; */
     color: black;
     text-decoration: none;
 }
@@ -94,6 +95,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffff1f', end
 img {
     width: 100%;
 
+    border-radius: 7px;
+    /* border-color: black; */
+    /* border-style: solid; */
+    border-width: 2 px;
 }
 
 
@@ -105,7 +110,8 @@ img {
 }
 
 .section-motto {
-    overflow: hidden;
+    height: 100%;
+    /* overflow: hidden; */
     float: left;
     width: 96%;
     margin-right: 2%;
@@ -122,6 +128,8 @@ background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1)
 background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 24%, rgba(255,255,31,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffff1f', GradientType=0 );
 }
+
+div#motto {}
 
 .section, .section-full {
     overflow: hidden;
@@ -147,13 +155,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
     width: 96%;
     margin-left: 0;
     margin-right: 0;
-    ground: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 24%, rgba(255,255,31,1) 100%);
-background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(24%, rgba(255,255,255,1)), color-stop(100%, rgba(255,255,31,1)));
-background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 24%, rgba(255,255,31,1) 100%);
-background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 24%, rgba(255,255,31,1) 100%);
-background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 24%, rgba(255,255,31,1) 100%);
-background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 24%, rgba(255,255,31,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffff1f', GradientType=0 );
+    background: rgba(255,255,31,1);
+background: -moz-linear-gradient(top, rgba(255,255,31,1) 0%, rgba(255,255,255,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,31,1)), color-stop(100%, rgba(255,255,255,1)));
+background: -webkit-linear-gradient(top, rgba(255,255,31,1) 0%, rgba(255,255,255,1) 100%);
+background: -o-linear-gradient(top, rgba(255,255,31,1) 0%, rgba(255,255,255,1) 100%);
+background: -ms-linear-gradient(top, rgba(255,255,31,1) 0%, rgba(255,255,255,1) 100%);
+background: linear-gradient(to bottom, rgba(255,255,31,1) 0%, rgba(255,255,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffff1f', endColorstr='#ffffff', GradientType=0 );
 }
 
 
@@ -216,13 +225,22 @@ color: rgb(61, 61, 61);
     padding-left: 1em;
 }
 
-.section-full p {
+.section-full p, .section-full-img{
     margin-bottom: 1em;
     margin-left: 1em;
     margin-right: 1em;
     
 }
+.section-full-img-kontakt{
+    LINE-HEIGHT: 1.4em;
+    font-size: 0.9em;
+    font-weight: 500;
+}
 
+.section-full-img {
+    float: left;
+    padding-left: -18em;
+}
 
 .txt-img {
     float: right;
