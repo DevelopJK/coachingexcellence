@@ -80,6 +80,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffff00', end
     overflow: hidden;
 }
 
+#page-footer img {
+    display: inline-block;
+    
+    width: 32px;
+     
+    padding-top: 30px;
+}
 
 
 #container {
@@ -271,6 +278,7 @@ color: rgb(61, 61, 61);
 }
 
 #footer-line{
+    display: block;
     border-bottom: 1px gray solid;
     overflow: hidden;
     
