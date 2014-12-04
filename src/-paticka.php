@@ -32,6 +32,6 @@
                 </div>
                 <a href="https://www.facebook.com/jana.kroupova.161"><img src="images/Facebook.png"></a>
             <a href=""><img src="images/LinkedIn.png"></a>
-            <img src="images/Skype.png"> fafafdafdffdf
+            <img src="images/Skype.png">
                 
             </div>
