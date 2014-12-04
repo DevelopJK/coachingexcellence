@@ -25,12 +25,12 @@ and open the template in the editor.
                 <img src="images/haeder01 copy.jpg" alt=""/>
             </div>    
             <div id="top-menu">
-                <a href="index.html">DOMŮ</a>
-                <a href="koucovani.html#koucovani">KOUČOVÁNÍ</a>
-                <a href="Pro firmy.html#profirmy">PRO FIRMY</a>
-                <a href="Cenik.html#cenik">CENÍK</a>
-                <a href="kontakt.html#kontakt">KONTAKT</a>
-                <a href="faq.html#faq">FAQ</a>
+                <a href="index.php">DOMŮ</a>
+                <a href="koucovani.php#koucovani">KOUČOVÁNÍ</a>
+                <a href="Pro firmy.php#profirmy">PRO FIRMY</a>
+                <a href="Cenik.php#cenik">CENÍK</a>
+                <a href="kontakt.php#kontakt">KONTAKT</a>
+                <a href="faq.php#faq">FAQ</a>
             </div>
 
             <div id="page-content">
@@ -134,16 +134,16 @@ V přípravě...
                     <div id="page-footer">
                 <div id="footer-line">
                     <div class="footer-col">
-                        <a href="koucovani.html">Koučování</a>
-                        <a href="O Jane.html">O Janě</a>
-                        <a href="nabidka.html">Nabídka</a>
-                        <a href="Akce.html">Akce</a>
+                        <a href="koucovani.php">Koučování</a>
+                        <a href="O Jane.php">O Janě</a>
+                        <a href="nabidka.php">Nabídka</a>
+                        <a href="Akce.php">Akce</a>
 
                     </div>
                     <div class="footer-col">
-                        <a href="reference.html">Reference</a>
-                        <a href="spoluprace.html">Spolupráce</a>
-                        <a href="kontakt.html">Kontakt</a>
+                        <a href="reference.php">Reference</a>
+                        <a href="spoluprace.php">Spolupráce</a>
+                        <a href="kontakt.php">Kontakt</a>
                         <a href="Cenik.html">Ceník</a>
 
                     </div>

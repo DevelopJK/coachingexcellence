@@ -1,69 +1,9 @@
-<!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
-<html>
-    <head>
-        <title>CoachingExcellence</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="css/reset.css"/>
-        <link rel="stylesheet" href="css/style.css"/>
-<!--        <script type="text/javascript">
-var texty = new Array();
-texty[0] = '>>Koučování  je jako jízda kočárem, místy příjemná, místy může být nepohodlná. Někdy slunce krásně svítí, nebe je modré, jindy se na cestě mohou vyskytnout výmoly, někdy udivíte nečekané dech beroucí scenérie a příroda Vám ukáže všechny své poklady. Vždy si ale můžete říci, že to stálo za to.<<';
-texty[1] = '"higher, faster, stronger ... better"<br>"výše, rychleji, silněji ... lépe"'
-;
-
-
-var interval = 5;
-var currtext = 0;
-
-function changeText() {
-if (currtext>texty.length-1) currtext=0;
-document.getElementById('dynamictext').innerHTML = texty[currtext];
-currtext++;
-setTimeout('changeText()', interval*1000);
-}
-</script>-->
-    </head>
-    <body onload="changeText()">
-
-
-        <div id="container">
-
-
-            <div id="page-header">
-
-                <img src="images/haeder01 copy.jpg" alt=""/>
-            </div>    
-            <div id="top-menu">
-                <a href="index.html">DOMŮ</a>
-                <a href="koucovani.html#koucovani">KOUČOVÁNÍ</a>
-                <a href="Pro firmy.html#profirmy">PRO FIRMY</a>
-                <a href="Cenik.html#cenik">CENÍK</a>
-                <a href="kontakt.html#kontakt">KONTAKT</a>
-                <a href="faq.html#faq">FAQ</a>
-            </div>
-
-            <div id="page-content">
-
-                <!--<div id="inconstruction">Na stránce se pracuje</div>-->
-
-                <div id="motto" class="section-motto">
-
-                
-                    <!--<div id="dynamictext"></div>-->
-                        <div><p>"Koučování  je jako jízda kočárem, místy příjemná, místy může být nepohodlná. Někdy slunce krásně svítí, nebe je modré, jindy se na cestě mohou vyskytnout výmoly, někdy udivíte nečekané dech beroucí scenérie a příroda vám ukáže všechny své poklady. Vždy si ale můžete říci, že to stálo za to." </p>
-
-                    </div>
-                </div>
+<?php
+    include './-hlavicka.php';
+?>
 
                 <div id="sect1" class="section">
-                    <a href="koucovani.html#koucovani">
+                    <a href="koucovani.php#koucovani">
                         <div id="sect9" class="sub-section-bgr-text">
                             <h2>KOUČOVÁNÍ</h2>
 
@@ -78,7 +18,7 @@ setTimeout('changeText()', interval*1000);
                 </div>
 
                 <div id="ojane" class="section">
-                    <a href="O Jane.html#ojane">
+                    <a href="O Jane.php#ojane">
                     <div id="sect9" class="sub-section-bgr-text">
 
                         <h2>O JANĚ</h2> 
@@ -94,7 +34,7 @@ setTimeout('changeText()', interval*1000);
                     </div>
                 </div>
                 <div id="nabidka" class="section">
-                    <a href="nabidka.html#nabidka"> 
+                    <a href="nabidka.php#nabidka"> 
                    <div id="sect9" class="sub-section-bgr-text">
 
                         <h2>NABÍDKA</h2>    
@@ -110,7 +50,7 @@ setTimeout('changeText()', interval*1000);
                     </div>
                 </div>
                 <div id="reference" class="section">
-                    <a href="reference.html#reference"> 
+                    <a href="reference.php#reference"> 
                     <div id="sect9" class="sub-section-bgr-text">
                         <h2>REFERENCE</h2>
                     </div>
@@ -125,7 +65,7 @@ setTimeout('changeText()', interval*1000);
                     </div>
                 </div>
                 <div id="akce" class="section">
-                    <a href="Akce.html#akce"> 
+                    <a href="Akce.php#akce"> 
                     <div class="sub-section-bgr-text">
                         <h2>AKCE</h2>
                     </div>
@@ -137,7 +77,7 @@ setTimeout('changeText()', interval*1000);
 
                 </div>
                 <div id="spoluprace" class="section">
-                    <a href="spoluprace.html#spoluprace"> 
+                    <a href="spoluprace.php#spoluprace"> 
                     <div id="sect9" class="sub-section-bgr-text">
 
                         <h2>SPOLUPRÁCE</h2>
@@ -150,7 +90,7 @@ V oblastech přesahujících koučování spolupracuji s odborníky ve svém obo
                     </div>
                 </div>
                 <div id="kontakt" class="section">
-                    <a href="kontakt.html#kontakt"> 
+                    <a href="kontakt.php#kontakt"> 
                     <div id="sect9" class="sub-section-bgr-text"><h2>KONTAKT</h2></div>
       </a>
 
@@ -164,7 +104,7 @@ V oblastech přesahujících koučování spolupracuji s odborníky ve svém obo
                     </div>
                 </div>
                 <div id="faq" class="section">
-                    <a href="faq.html#faq"> 
+                    <a href="faq.php#faq"> 
                     <div id="sect9" class="sub-section-bgr-text">
 
                         <h2>FAQ</h2>
@@ -185,21 +125,21 @@ V oblastech přesahujících koučování spolupracuji s odborníky ve svém obo
             <div id="page-footer">
                 <div id="footer-line">
                     <div class="footer-col">
-                        <a href="koucovani.html">Koučování</a>
-                        <a href="O Jane.html">O Janě</a>
-                        <a href="nabidka.html">Nabídka</a>
-                        <a href="Akce.html">Akce</a>
+                        <a href="koucovani.php">Koučování</a>
+                        <a href="O Jane.php">O Janě</a>
+                        <a href="nabidka.php">Nabídka</a>
+                        <a href="Akce.php">Akce</a>
 
                     </div>
                     <div class="footer-col">
-                        <a href="reference.html">Reference</a>
-                        <a href="spoluprace.html">Spolupráce</a>
-                        <a href="kontakt.html">Kontakt</a>
-                        <a href="Cenik.html">Ceník</a>
+                        <a href="reference.php">Reference</a>
+                        <a href="spoluprace.php">Spolupráce</a>
+                        <a href="kontakt.php">Kontakt</a>
+                        <a href="Cenik.php">Ceník</a>
 
                     </div>
                     <div class="footer-col">
-                        <a href="faq.html">FAQ</a>
+                        <a href="faq.php">FAQ</a>
                         <a href="">Etický kodex</a>
                         <a href="">Expert focus group</a>
 
@@ -207,9 +147,9 @@ V oblastech přesahujících koučování spolupracuji s odborníky ve svém obo
                     <div class="footer-col">
                         <a href="">Koučování pro korporátní zaměstnance</a>
                               <a href="">Maminky na MD/RD</a>
-                              <a href="Akce.html#progchangels">Změna životního stylu</a>
+                              <a href="Akce.php#progchangels">Změna životního stylu</a>
                         <a href="">Koučování a Feldenkreis</a>
-                        <a href="Akce.html#bodymind">Body & Mind</a>
+                        <a href="Akce.php#bodymind">Body & Mind</a>
                   
 
                     </div>
