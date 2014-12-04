@@ -31,7 +31,7 @@
                     </div>
                 </div>
                 <a href="https://www.facebook.com/jana.kroupova.161"><img src="images/Facebook.png"></a>
-            <a href=""><img src="images/LinkedIn.png"></a>
-            <img src="images/Skype.png">
+            <a href="http://cz.linkedin.com/in/janakroupova"><img src="images/LinkedIn.png"></a>
+            <img src="images/Skype.png">&nbsp;&nbsp;jana.misekova
                 
             </div>

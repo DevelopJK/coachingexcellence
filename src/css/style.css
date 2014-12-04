@@ -80,7 +80,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffff00', end
     overflow: hidden;
 }
 
-#page-footer img {
+#page-footer img, #kontakt img {
     display: inline-block;
     
     width: 32px;
