@@ -104,7 +104,7 @@ a dokážu mnohem lépe nakládat se svou notorickou nedochvilností. I když js
 s konkrétní potřebou naučit se sama řešit situace, se kterými jsem si do té doby nevěděla rady, 
 
 mám pocit, že se celý proces koučování v principu dialogu přenesl do kvality mého života i v jiných 
-
+<a href="spoluprace.php"></a>
 oblastech. Vyhovuje mi forma koučování, kdy si klient sám může volit setkání osobní nebo 
 
 po telefonu. Je to časově, řekněme, luxusní.</p>
@@ -118,43 +118,9 @@ po telefonu. Je to časově, řekněme, luxusní.</p>
 
             </div>
 
-                  <div id="page-footer">
-                <div id="footer-line">
-                    <div class="footer-col">
-                        <a href="koucovani.html">Koučování</a>
-                        <a href="O Jane.html">O Janě</a>
-                        <a href="nabidka.html">Nabídka</a>
-                        <a href="Akce.html">Akce</a>
-
-                    </div>
-                    <div class="footer-col">
-                        <a href="reference.html">Reference</a>
-                        <a href="spoluprace.html">Spolupráce</a>
-                        <a href="kontakt.html">Kontakt</a>
-                        <a href="Cenik.html">Ceník</a>
-
-                    </div>
-                    <div class="footer-col">
-                        <a href="faq.html">FAQ</a>
-                        <a href="">Etický kodex</a>
-                        <a href="">Expert focus group</a>
-
-                    </div>              
-                    <div class="footer-col">
-                        <a href="">Koučování pro korporátní zaměstnance</a>
-                              <a href="">Maminky na MD/RD</a>
-                        <a href="">Změna životního stylu</a>
-                        <a href="">Koučování a Feldenkreis</a>
-                        <a href="Akce.html#bodymind">Body & Mind</a>
-                  
-
-                    </div>
-                </div>
-                                     
-            <img src="images/Facebook.png">
-            <img src="images/LinkedIn.png">
-            <img src="images/Skype.png">
-            </div>
+               <?php
+    include './-paticka.php';
+?>
         </div>
     </body>
 </html>

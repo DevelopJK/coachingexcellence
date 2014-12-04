@@ -83,43 +83,9 @@ V přípravě...
 
             </div>
 
-                    <div id="page-footer">
-                <div id="footer-line">
-                    <div class="footer-col">
-                        <a href="koucovani.php">Koučování</a>
-                        <a href="O Jane.php">O Janě</a>
-                        <a href="nabidka.php">Nabídka</a>
-                        <a href="Akce.php">Akce</a>
-
-                    </div>
-                    <div class="footer-col">
-                        <a href="reference.php">Reference</a>
-                        <a href="spoluprace.php">Spolupráce</a>
-                        <a href="kontakt.php">Kontakt</a>
-                        <a href="Cenik.html">Ceník</a>
-
-                    </div>
-                    <div class="footer-col">
-                        <a href="faq.html">FAQ</a>
-                        <a href="">Etický kodex</a>
-                        <a href="">Expert focus group</a>
-
-                    </div>              
-                    <div class="footer-col">
-                        <a href="">Koučování pro korporátní zaměstnance</a>
-                              <a href="">Maminky na MD/RD</a>
-                        <a href="">Změna životního stylu</a>
-                        <a href="">Koučování a Feldenkreis</a>
-                        <a href="Akce.html#bodymind">Body & Mind</a>
-                  
-
-                    </div>
-                </div>
-                       
-            <img src="images/Facebook.png">
-            <img src="images/LinkedIn.png">
-            <img src="images/Skype.png">
-            </div>
+                     <?php
+    include './-paticka.php';
+?>
         </div>
     </body>
 </html>

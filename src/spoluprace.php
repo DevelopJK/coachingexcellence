@@ -1,5 +1,5 @@
 <?php
-    include './-hlavicka.php';
+        include './-hlavicka.php';
 ?>
 
                 <div id="spoluprace" class="section-full">
@@ -94,43 +94,9 @@ Ivana  je vystudovaná pedagožka a instruktorka Fitmami . V současné době ji
 
             </div>
 
-                       <div id="page-footer">
-                <div id="footer-line">
-                    <div class="footer-col">
-                        <a href="koucovani.html">Koučování</a>
-                        <a href="O Jane.html">O Janě</a>
-                        <a href="nabidka.html">Nabídka</a>
-                        <a href="Akce.html">Akce</a>
-
-                    </div>
-                    <div class="footer-col">
-                        <a href="reference.html">Reference</a>
-                        <a href="spoluprace.html">Spolupráce</a>
-                        <a href="kontakt.html">Kontakt</a>
-                        <a href="Cenik.html">Ceník</a>
-
-                    </div>
-                    <div class="footer-col">
-                        <a href="faq.html">FAQ</a>
-                        <a href="">Etický kodex</a>
-                        <a href="">Expert focus group</a>
-
-                    </div>              
-                    <div class="footer-col">
-                        <a href="">Koučování pro korporátní zaměstnance</a>
-                              <a href="">Maminky na MD/RD</a>
-                        <a href="">Změna životního stylu</a>
-                        <a href="">Koučování a Feldenkreis</a>
-                        <a href="Akce.html#bodymind">Body & Mind</a>
-                  
-
-                    </div>
-                </div>
-                                          
-            <img src="images/Facebook.png">
-            <img src="images/LinkedIn.png">
-            <img src="images/Skype.png">
-            </div>
+                 <?php
+    include './-paticka.php';
+?>
         </div>
     </body>
 </html>
