@@ -4,7 +4,7 @@
 
                 <div id="spoluprace" class="section-full">
                     <div class="sub-section-bgr-text">
-                        <h2>SPOLUPRÁCE</h2>
+                        <h2 id="spoluprace">SPOLUPRÁCE</h2>
 
                     </div>
                     <div class="section-text">

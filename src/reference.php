@@ -4,7 +4,7 @@
 
                 <div id="reference" class="section-full">
                     <div class="sub-section-bgr-text">
-                        <h2>REFERENCE</h2>
+                        <h2 id="reference">REFERENCE</h2>
 
                     </div>
                     <div class="section-text">

@@ -4,7 +4,7 @@
 
                 <div id="akce" class="section-full">
                     <div class="sub-section-bgr-text">
-                        <h2>AKCE</h2>
+                        <h2  ID="korpo">AKCE</h2>
 
                     </div>
                     <div class="section-text">
@@ -30,7 +30,7 @@ Pro ty z vás, chcete znovu nalézt chuť do práce.</p>
 <p>Program je možný v rozsahu 4-6 sezení a je vždy upraven na míru dle vašich individuálních
 
 požadavků.</p>
-<hr width="97%" noshade color="#f0de21" size="0.1em" ><br>
+<hr id="koc4mam" width="97%" noshade color="#f0de21" size="0.1em" ><br>
 <h2>KOUČOVÁNÍ PRO MAMINKY NA MD/RD</h2>
  <p>- cenově zvýhodněný balíček je připravený speciálně pro maminky na MD/RD</p>
 
@@ -57,7 +57,7 @@ s výživovým poradcem Lindou Kripnerovou a 1x týdně cvičení podle vašeho 
 
 cvičitelkou po dobu 3 měsíců ve studiu Majky Šulové v Praze 9 - Vinoři.</p>
 
-<hr width="97%" noshade color="#f0de21" size="0.1em" ><br>
+<hr id="feldenmotod"width="97%" noshade color="#f0de21" size="0.1em" ><br>
 <h2>KOUČOVÁNÍ A FELDENKREISOVA METODA</h2>
 <p>Nabídka je určena pro klienty Feldenkreisovy metody, hledání přesahu fyzického cvičení, k nastolení 
 

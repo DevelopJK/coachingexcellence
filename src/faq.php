@@ -4,7 +4,7 @@
 
                 <div id="faq" class="section-full">
                     <div class="sub-section-bgr-text">
-                        <h2>FAQ</h2>
+                        <h2 id="faq">FAQ</h2>
 
                     </div>
                     <div class="section-text">

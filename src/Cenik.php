@@ -4,7 +4,7 @@
 
                 <div id="cenik" class="section-full">
                     <div class="sub-section-bgr-text">
-                        <h2>CENÍK</h2>
+                        <h2 id="cenik">CENÍK</h2>
 
                     </div>
                     <div class="section-text">
