@@ -13,7 +13,7 @@
                         <div style="float: left"><p><b>Mgr. Jana Kroupová</b></p>
 
 <p>Telefon: +420 602 44 20 21<br>
-coaching@excellence.cz<br>
+jana@coachingexcellence.cz<br>
 www.coachingexcellence.cz<br>
 cz.linkedin.com/in/janakroupova/<br>
 </p>

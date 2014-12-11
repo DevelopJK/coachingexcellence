@@ -6,7 +6,7 @@
  $i=$_POST['ip']; 
 
  // settings and contents of the email 
- $to = 'coaching@excellence.cz'; 
+ $to = 'jana@coachingexcellence.cz'; 
  $subject = 'Zpráva webového formuláře'; 
  $message = 'Message from: '.$n.'
 IP:'.$i.'
