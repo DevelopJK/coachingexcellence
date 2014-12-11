@@ -27,11 +27,11 @@ správnému uchopení řešení a poprvé v životě věřím, že jsem na dobr�
 
 rozhodnutí, které pro mě představovalo dilema, se kterým jsem se po vlastních úvahách ocitla ve 
 
-slepé uličce, a protož se sama o koučování zajímám, věděla jsem, že to může být to, co mi pomůže 
+slepé uličce, a protože se sama o koučování zajímám, věděla jsem, že to může být to, co mi pomůže 
 
 věci ujasnit. Janiny otázky ve mně podnítily zamyšlení nad nečekanými aspekty mé situace, a to vedlo 
 
-přirozeně k uvědomění si pro mě neadekvátnějšího rozhodnutí.</p>
+přirozeně k uvědomění si pro mě nejadekvátnějšího rozhodnutí.</p>
 
 <p><i>Veronika Vilánková, Group Coordinator, středně velká společnost</i></p><br>
 <p>Jsem moc ráda, že jsem mohla zažít hodiny koučingu s Janou. Mimo jiné mi přinesly nový vhled do

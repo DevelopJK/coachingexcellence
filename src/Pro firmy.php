@@ -111,7 +111,12 @@
                         <p>&#160;</p>
                         <p>Celkově se dá říci, že praxe koučování ve firmách narůstá, povědomí o koučování se rozšiřuje, někde se zavádí systémy interního koučování. Dříve  jsme se s koučováním ve firmách mohli setkat v lepším případě ve formě benefitu pro top-managery, v horším případě jako pomoc, když  už je nejhůř a hledá se, jak z toho ven. Často když je zkrátka pozdě a musíme "hasit požár". 
                             Ve firemním prostředí lze přitom uplatnit koučování mnoha způsoby. Koučovacím stylem u manažerů počínaje, přes koučování talentů, klíčových zaměstnanců, koučováním řadových zaměstnanců, až po koučování co by prevenci možných nechtěných jevů jako je zvýšená fluktuace zaměstnanců  či syndrom vyhoření. Koučováním představuje netušený potenciál pro rozvoj firem. Konkrétně lze koučováním zlepšit komunikaci mezi nadřízenými a podřízenými, interními klienty či obchodními partnery, můžete efektivně rozvíjet své zaměstnance. Koučovacím způsobem můžete nastavit obchodní strategie a dosahovat efektivně požadovaných cílů.
-                        </p>
+                     <br>                        <hr width="97%" noshade color="#f0de21" size="0.1em" >   
+                        </p><br>
+                            <li style="margin-left: 1em">LIFE COACHING</li><br>
+                       <li style="margin-left: 1em">BUSINESS COACHING</li><br>
+                       <li style="margin-left: 1em">WALK COACHING</li><br>
+                       <li style="margin-left: 1em">FORMY KOUČOVANÍ OSOBNÍ/TELEFONICKE/SKYPE</li><br> 
 
 <p>&#160;</p>
                     </div>

@@ -100,8 +100,7 @@ V oblastech přesahujících koučování spolupracuji s odborníky ve svém obo
                         Telefon: +420 602 442 021</li><br>
                         jana@coachingexcellence.cz<br>
 
- <a href="https://www.facebook.com/jana.kroupova.161"><img src="images/Facebook.png"></a>
- <a href="http://cz.linkedin.com/in/janakroupova" target=""><img src="images/LinkedIn.png"></a>
+ 
 <!--<br><img src="images/Skype.png">&nbsp;&nbsp;jana.misekova-->
 <!--<div id="SkypeButton_Call_kmjirikraus_1">
   <script type="text/javascript">

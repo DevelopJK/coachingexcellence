@@ -32,7 +32,7 @@ time managementem a řešením vztahů je toto jedno z nejčastějších témat,
 <p>Radost v životě - objevte, co Vám skutečně radost v životě přináší, a jak to udělat, aby jí bylo více.
 
 <p>Osobní rozvoj - vyrovnejte své slabé a silné stránky, rozkveťte!</p>
-
+<hr width="97%" noshade color="#f0de21" size="0.1em" ><br>
 <h2>BUSINESS COACHING</h2>
 <p>Executive coaching - koučování výkonu, vedení obchodních jednání, efektivní porady, komunikace, to 
 
@@ -51,7 +51,8 @@ ostatních lidí, slaďte fungování týmu.
 <p>Talent management - objevte svůj jedinečný talent a využijte na maximum Váš potenciál či potenciál 
 
 Vašich podřízených.</p>
-<h2>Walk coaching</h2>
+<hr width="97%" noshade color="#f0de21" size="0.1em" ><br>
+<h2>WALK COACHING</h2>
 
 
 <p>Koučování může probíhat formou procházky, přirozeně dochází ke stimulaci obou mozkových 
@@ -59,8 +60,9 @@ Vašich podřízených.</p>
 hemisfér, na čerstvém vzduchu nám to lépe myslí a nápady přicházejí samy. Modré nebe nad hlavou, 
 
 věnovat čas chvíli sami sobě, co si více přát!</p>
+<hr width="97%" noshade color="#f0de21" size="0.1em" ><br>
 
-<h2>Formy koučování osobní/telefonické/skype</h2>
+<h2>FORMY KOUČOVANÍ OSOBNÍ/TELEFONICKE/SKYPE</h2>
 <p>&#160;</p>
 
 

@@ -17,8 +17,8 @@
                     <div class="footer-col">
                         <a href="faq.php#faq">FAQ</a>
                         <a href="eticky-kodex-kouce-776.pdf" target="blank">Etický kodex</a>
-                        <a href="">Expert focus group</a>
-                        <a href="pro firmy.php#profirmy">Pro firmy</a>
+                        <a href="expert-focus-group.php#exfocgroup">Expert focus group</a>
+                        <a href="Pro firmy.php#profirmy">Pro firmy</a>
 
                     </div>              
                     <div class="footer-col">

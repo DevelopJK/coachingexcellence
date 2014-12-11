@@ -98,7 +98,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffff00', end
 
 
 }
-
+#form-pozice{
+    float: left;
+    padding-left: 1em;
+        
+    
+    
+}
 
 img {
     width: 100%;
