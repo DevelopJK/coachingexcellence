@@ -37,7 +37,7 @@ cz.linkedin.com/in/janakroupova/<br>
  <input type='text' name='email' placeholder='E-mail *' />
  <label class='error' id='email_error'>Vyplňte prosím Váš E-mail</label>
 
- <textarea placeholder='Text zprávy *' name='message' style="height: 150px" ></textarea>
+ <textarea placeholder='Text zprávy *' name='message' id="napiste-zpravu"></textarea>
  <label class='error' id='message_error'>Napište zprávu</label>
 
  <input type='hidden' name='ip' value='<?php echo $_SERVER['REMOTE_ADDR'] ?>'/>
