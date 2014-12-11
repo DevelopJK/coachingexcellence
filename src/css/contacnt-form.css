@@ -1,0 +1,12 @@
+
+form label{display:inline-block}
+form input,form textarea{border:1px solid #ddd;display:block;margin:0 0 20px 0;font-family:'Open Sans', sans-serif;padding:2px 3px;width:200px;resize:none;border-radius: 3px;}
+form .error{display:none;color:#d91900;font-size:12px;margin:-15px 0 20px 0}
+input.submit{background: #F0DE21;color: #333;border: 1px solid #B0B026;width:100px}
+input.submit:hover{background:#ffff70;border:1px solid #B0B026;cursor:pointer}
+span{font-size:11px;color:#8b8b8b;margin:10px 0;display:block}
+span:last-of-type{margin:0}
+span.ip{color:#d91900}
+p{margin:10px 0 0}
+p.code{font-size:10px;color:#8b8b8b}
+p.info{color:#282828;font-size:12px;margin:10px 0;text-align:center}
