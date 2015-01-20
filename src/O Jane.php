@@ -2,7 +2,7 @@
     include './-hlavicka.php';
 ?>
 
-                <div id="ojane" class="section-full">
+                <div id="ojane" class="section-full section-full-ojane2sloupce">
                     <div class="sub-section-bgr-text">
                         <h2>O JANĚ</h2>
 
@@ -23,7 +23,7 @@ přesně ve správný čas</p>
 
 při kterých převážil můj zájem o jejich rozvoj. Smyslem mé práce je v přímém rozvoji člověka, pomocí 
 
-kterého dokáže přímo zkvalitnit svůj život, ovlivňovat ho, nalézat spokojenost v každé chvíli svého 
+kterého dokáže přímo zkvalitnit svůj život, ovlivňovat   ho, nalézat spokojenost v každé chvíli svého 
 
 života a zvládat náročné životní situace..</p>
 
