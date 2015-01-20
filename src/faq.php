@@ -17,7 +17,7 @@
 <p>
 Přinést vám může především hlubší poznání sebe sama. Nejčastěji klienti pociťují větší míru
 
-spokojenosti, radosti, klidu, pocitu, že nejsou tolik ve stres. Daří se jim lépe zvládat své vztah, lépe se 
+spokojenosti, radosti, klidu, pocitu, že nejsou tolik stresovaní. Daří se jim lépe zvládat své vztahy, lépe se 
 
 rozhodují, získávají své principy, které mohou uplatnit v soukromém i profesním životě.</p>
 <!--<hr width="97%" noshade color="gray">-->
@@ -30,13 +30,13 @@ rozhodují, získávají své principy, které mohou uplatnit v soukromém i pro
 
 při uskutečňování důležitých změn, pro vedení na cestě osobního rozvoje apod. Někdy může být 
 
-spolupráce naopak velmi rychlá, kdy si potřebujete ujasnit konkrétní problém či dospějete k řešení 
+spolupráce naopak velmi rychlá, kdy si potřebujete ujasnit konkrétní problém a dospějete rovnou k řešení.
 
-rovnou.</p>
+</p>
 <!--<hr width="97%" noshade color="gray">-->
 
 <h2>Jak často ke kouči docházet?</h2>
-<p>Záleží na tom, co Vám vyhovuje, někomu vyhovuje sezení 1x týdně,jinému 1x 14 dní, případně 1x
+<p>Záleží na tom, co Vám vyhovuje, někomu vyhovuje sezení 1x týdně, jinému 1x 14 dní, případně 1x
 
 měsíc.</p>
 
@@ -75,9 +75,9 @@ kombinovat, když např. preferujete koučování osobně a na služební cestě
 skype.</p>
 
 <h2>Můžeme se sejít jinde než v koučovně nebo v kanceláři?</h2>
-<p>Koučování není omezené prostorem, koučovat lze v kavárně, v park, na procházce. Důležité je, kde se
+<p>Koučování není omezené prostorem, koučovat lze v kavárně, v parku, na procházce. Důležité je, kde se
 
-dobře cítíte, jestli potřebujete k soustředění se ticho nebo tichý ruch na pozadí. Záleží na dohodě obou 
+dobře cítíte, jestli potřebujete k soustředění ticho nebo tichý ruch na pozadí. Záleží na dohodě obou 
 
 stran.</p>
 

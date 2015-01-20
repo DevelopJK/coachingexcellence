@@ -97,13 +97,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffff00', end
     min-height:100%;
 
 
-}
-#form-pozice{
-    float: left;
-    padding-left: 1em;
-        
-    
-    
+    float: right;
 }
 
 img {
@@ -145,10 +139,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 
 div#motto {}
 
-.section, .section-full {
+
+
+
+.section, .section-full, section-full-2sloupec  {
     overflow: hidden;
     float: left;
-    width: 19%;
+    width: 19%; 
     margin-right: 2%;
     margin-bottom: 1.5em;
     min-height: 16em;
@@ -164,8 +161,8 @@ div#motto {}
     position: relative;
 }
 
-.section-full {
-    float: none;
+.section-full, .section-full-ojane2sloupce, .section-full-2sloupec  {
+    /* float: none; */
     width: 96%;
     margin-left: 0;
     margin-right: 0;
@@ -180,6 +177,19 @@ background: -ms-linear-gradient(top, rgba(255,255,31,1) 0%, rgba(255,255,255,1) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffff1f', endColorstr='#ffffff', GradientType=0 );
 }
 
+.section-full-ojane2sloupce {
+     width: 65%;
+     min-height: 980px;
+}
+
+
+.certifikat{
+   float: right;
+   width: 86%;
+   
+   /* position: relative; */
+   margin-left: 3em;
+}
 
 .sub-section-bgr-text {
     background-color: rgb(240, 222, 33);
@@ -201,10 +211,19 @@ color: rgb(61, 61, 61);
 
  
 .section-text{
-    padding-top: 3em;
+     padding-top: 3em; 
 /*    padding-left: 1em;
     padding-right: 1em;*/
-    line-height: 158%;
+    
+     line-height: 158%;
+}
+
+div#kontakt{ 
+/*    padding-left: 1em;
+    padding-right: 1em;*/
+    
+     
+     
 }
 
 .motto {
@@ -257,6 +276,14 @@ color: rgb(61, 61, 61);
     padding-left: -18em;
 }
 
+.section-full-2sloupec {
+     width: 25%;
+     margin-left: 2%;
+     min-height: 980px;
+     float: left;
+}
+
+
 .txt-img {
     float: right;
     margin-left: 1em;
@@ -293,6 +320,13 @@ color: rgb(61, 61, 61);
     padding-bottom: 3em;
 }
 
+.section-certifikat-tab {
+   float: right;
+   width: 30%;
+   
+   /* position: relative; */
+   margin-left: 2em;
+}
 
 
 

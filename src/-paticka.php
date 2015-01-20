@@ -31,8 +31,8 @@
 
                     </div>
                 </div>
-                <a href="https://www.facebook.com/jana.kroupova.161"><img src="images/Facebook.png"></a>
             <a href="http://cz.linkedin.com/in/janakroupova"><img src="images/LinkedIn.png"></a>
+                <a href="https://www.facebook.com/pages/Coaching-excellence/288989827919514?fref=ts"><img src="images/Facebook.png"></a>
             <img src="images/Skype.png">&nbsp;&nbsp;coaching.excellence
                 
             </div>

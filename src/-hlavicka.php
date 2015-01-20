@@ -52,7 +52,7 @@ and open the template in the editor.
 
                 
                     <!--<div id="dynamictext"></div>-->
-                        <div><p>"Koučování  je jako jízda kočárem, místy příjemná, místy může být nepohodlná. Někdy slunce krásně svítí, nebe je modré, jindy se na cestě mohou vyskytnout výmoly, někdy udivíte nečekané dech beroucí scenérie a příroda vám ukáže všechny své poklady. Vždy si ale můžete říci, že to stálo za to." </p>
+                        <div><p>"Koučování  je jako jízda kočárem, místy příjemná, místy může být nepohodlná. Někdy slunce krásně svítí, nebe je modré, jindy se na cestě mohou vyskytnout výmoly, někdy uvidíte nečekané dech beroucí scenérie a příroda vám ukáže všechny své poklady. Vždy si ale můžete říci, že to stálo za to." </p>
 
                     </div>
                 </div>
