@@ -10,59 +10,68 @@
                     <div class="section-text">
 
                        
-                        <p style="font-weight: bold">Oblasti koučování Life & Business<br>
-                             
-
-
-                        </p>
+                        
 
 <p>
 
 
-<h2>LIFE COACHING</h2>
+<h2>OSOBNÍ KOUČOVÁNÍ PRO KORPORÁTNÍ ZAMĚSTNANCE</h2> 
+                       <p>Máte pocit, že své práci dáváte víc, než dostáváte nazpět?
+                    
 
-<p>Work-life balance - otázkou jak sladit svůj soukromý a pracovní život se zabývá stále více lidí. Spolu s 
 
-time managementem a řešením vztahů je toto jedno z nejčastějších témat, která klienty trápí. 
+<p>Nemusíte hned měnit zaměstnání, zkuste najít, co vám bude fungovat.
+Najděte svůj vnitřní klid a stabilitu</p>
 
-<p>Kariérový koučink - najděte, co Vás skutečně v životě naplňuje, nalezněte pro Vás správný směr v 
+<p>Pro koho je program určen?</p>
 
-životě. Jak chcete, aby Váš život vypadal za pět, deset a více let, čeho chcete v životě dosáhnout.
+<p>Těm z vás, kteří máte v práci pocit, že odvádíte více, než se vám vrací.<br>
 
-<p>Radost v životě - objevte, co Vám skutečně radost v životě přináší, a jak to udělat, aby jí bylo více.
+Všem, kteří pociťujete nespokojenost se svou současnou situací.<br>
+Pro ty z vás, kteří chcete změnu.<br>
+Pro ty z vás, chcete znovu nalézt chuť do práce.</p>
+<p>Program je možný v rozsahu 4-6 sezení a je vždy upraven na míru dle vašich individuálních
 
-<p>Osobní rozvoj - vyrovnejte své slabé a silné stránky, rozkveťte!</p>
+požadavků.</p>
+<hr id="koc4mam" width="97%" noshade color="#f0de21" size="0.1em" ><br>
+<h2>KOUČOVÁNÍ PRO MAMINKY NA MD/RD</h2>
+ <p>- cenově zvýhodněný balíček je připravený speciálně pro maminky na MD/RD</p>
+
+<p>Potřebujete najít svůj směr?
+Chystáte se zpět do práce?
+Cítíte již potřebu zabývat se něčím dalším než péčí o své ratolesti?<p>
+
+<p>Program pro maminky na MD/RD zahrnuje:<p>
+- typologii osobnosti<br> 
+- koučování v oblasti kariéry<br>
+- koučování zaměřené na slaďování práce, rodiny a volného času<br>
+- koučování zaměřené na nalezení a posílení vašeho vnitřního klidu a stability<br>
+
+<p>Program je možný v rozsahu 4-6 sezení  a je vždy upraven na míru dle vašich individuálních požadavků.</p>
+<hr id="progchangels" width="97%" noshade color="#f0de21" size="0.1em" ><br>
+<h2 >PROGRAM ZMĚNA ŽIVOTNÍHO STYLU</h2><p>- jedinečný aktivní komplexní přístup ke změně vašeho životního stylu</p>
+<p>Zahrnuje 6 koučovacích setkání zaměřených na aktivní změnu vašeho životního stylu směrem k
+
+pozitivním změnám ve vašem životě, zejména na úpravu hmotnosti, radost z pohybu, vylepšení 
+
+spánkového režimu a větší spokojenost sama se sebou. V programu je rovněž zahrnuto poradenství 
+
+s výživovým poradcem Lindou Kripnerovou a 1x týdně cvičení podle vašeho výběru a domluvy s 
+
+cvičitelkou po dobu 3 měsíců ve studiu Majky Šulové v Praze 9 - Vinoři.</p>
+
+<hr id="feldenmotod"width="97%" noshade color="#f0de21" size="0.1em" ><br>
+<h2>KOUČOVÁNÍ A FELDENKREISOVA METODA</h2>
+<p>Nabídka je určena pro klienty Feldenkreisovy metody, hledání přesahu fyzického cvičení, k nastolení 
+
+celkové rovnováhy.</p>
 <hr width="97%" noshade color="#f0de21" size="0.1em" ><br>
-<h2>BUSINESS COACHING</h2>
-<p>Executive coaching - koučování výkonu, vedení obchodních jednání, efektivní porady, komunikace, to 
-
-jsou častá témata, kterými se klienti zabývají.
-
-<p>Projektové řízení  - potřebujete zajistit hladký průběh Vašeho projektu, koučování Vám pomůže 
-
-ošetřit rizika, posune Vás v okamžiku, kdy máte pocit, že Vám došel dech a podpoří Vás k zdárnému 
-
-dokončení projektu.
-
-<p>Leadership/management coaching - upevněte a rozviňte své kompetence pro řízení a rozvoj 
-
-ostatních lidí, slaďte fungování týmu.
-
-<p>Talent management - objevte svůj jedinečný talent a využijte na maximum Váš potenciál či potenciál 
-
-Vašich podřízených.</p>
-<hr width="97%" noshade color="#f0de21" size="0.1em" ><br>
-<h2>WALK COACHING</h2>
-
-
-<p>Koučování může probíhat formou procházky, přirozeně dochází ke stimulaci obou mozkových 
-
-hemisfér, na čerstvém vzduchu nám to lépe myslí a nápady přicházejí samy. Modré nebe nad hlavou, 
-
-věnovat čas chvíli sami sobě, co si více přát!</p>
+<h2 id="bodymind">BODY & MIND</h2>
+<p>Jak praví latinské přísloví "mens sana in corpore sano" ve zdravém těle zdravý duch - propojení 
+psychické a fyzické odolnosti.<br>
+V přípravě...
 <hr width="97%" noshade color="#f0de21" size="0.1em" ><br>
 
-<h2>FORMY KOUČOVANÍ OSOBNÍ/TELEFONICKE/SKYPE</h2>
 <p>&#160;</p>
 
 
