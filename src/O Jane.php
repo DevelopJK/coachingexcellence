@@ -1,96 +1,87 @@
 <?php
-include './-hlavicka.php';
+    include './-hlavicka.php';
 ?>
 
-<div id="ojane" class="section-full section-full-ojane2sloupce">
-    <div class="sub-section-bgr-text">
-        <h2>O JANĚ</h2>
+                <div id="ojane" class="section-full">
+                    <div class="sub-section-bgr-text">
+                        <h2>O JANĚ</h2>
 
-    </div>
-    <div class="section-text">
+                    </div>
+                    <div class="section-text">
+ 
+                        
+                        <h2>Motto: "higher, faster, stronger ... better"<br>	
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"výše, rychleji, silněji ... lépe"
+</h2>  
+                         <p>&#160;</p>
+                        
+<p>... jak jsem si myslela, že jsem objevila koučování, a bylo to přesně naopak, koučování si mě našlo 
 
+přesně ve správný čas</p>
 
-        <h2>Motto: "higher, faster, stronger ... better"<br>	
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"výše, rychleji, silněji ... lépe"
-        </h2>  
-        <p>&#160;</p>
+<p>Když jsem vědomě vykročila na tuto cestu, život mi přinesl řadu setkání a interakcí s ostatními lidmi, 
 
-        <p>... jak jsem si myslela, že jsem objevila koučování, a bylo to přesně naopak, koučování si mě našlo 
+při kterých převážil můj zájem o jejich rozvoj. Smyslem mé práce je v přímém rozvoji člověka, pomocí 
 
-            přesně ve správný čas</p>
+kterého dokáže přímo zkvalitnit svůj život, ovlivňovat ho, nalézat spokojenost v každé chvíli svého 
 
-        <p>Když jsem vědomě vykročila na tuto cestu, život mi přinesl řadu setkání a interakcí s ostatními lidmi, 
+života a zvládat náročné životní situace..</p>
 
-            při kterých převážil můj zájem o jejich rozvoj. Smyslem mé práce je v přímém rozvoji člověka, pomocí 
+<p>Na Filozofické fakultě Univerzity Karlovy jsem složila státní závěrečné zkoušky z Andragogiky
 
-            kterého dokáže přímo zkvalitnit svůj život, ovlivňovat   ho, nalézat spokojenost v každé chvíli svého 
+nebo-li vzdělávání dospělých, personálního řízení a psychologie. Vzhledem k mému zaměření 
 
-            života a zvládat náročné životní situace..</p>
+bylo přirozené, že jsem o koučování poprvé slyšela právě na vysoké škole. Tam jsem pochopila, že 
 
-        <p>Na Filozofické fakultě Univerzity Karlovy jsem složila státní závěrečné zkoušky z Andragogiky
+skutečně nemůžete nikoho nic naučit, můžete mu jen pomoci, aby se to naučil sám. Během své 
 
-            nebo-li vzdělávání dospělých, personálního řízení a psychologie. Vzhledem k mému zaměření 
+praxe jsem se věnovala zejména práci s lidmi. Díky tomu jsem mohla objevit, co mě skutečně v práci 
 
-            bylo přirozené, že jsem o koučování poprvé slyšela právě na vysoké škole. Tam jsem pochopila, že 
+naplňuje a těší. Zjistila jsem, že lidé jsou hojně školení, ale to co jim skutečně chybí, je čas a prostor 
 
-            skutečně nemůžete nikoho nic naučit, můžete mu jen pomoci, aby se to naučil sám. Během své 
+uvědomit si a dělat věci po svém. To už byl jen krůček k tomu otevřít si soukromou koučovací praxi. 
 
-            praxe jsem se věnovala zejména práci s lidmi. Díky tomu jsem mohla objevit, co mě skutečně v práci 
+Kromě profesionálního výcviku v koučování, absolvuji pravidelně další vzdělávací kurzy pro kouče, 
 
-            naplňuje a těší. Zjistila jsem, že lidé jsou hojně školení, ale to co jim skutečně chybí, je čas a prostor 
+sebe zážitkové kurzy, pravidelně pracuji se svým mentorem na prohloubení svých koučovacích 
 
-            uvědomit si a dělat věci po svém. To už byl jen krůček k tomu otevřít si soukromou koučovací praxi. 
+kompetencí.</p>
 
-            Kromě profesionálního výcviku v koučování, absolvuji pravidelně další vzdělávací kurzy pro kouče, 
+<h2>Absolvované kurzy a tréninky v oblasti koučování</h2> 
 
-            sebe zážitkové kurzy, pravidelně pracuji se svým mentorem na prohloubení svých koučovacích 
+<p>Základní výcvik v koučování (2012) - QED group<br>
 
-            kompetencí.</p>
+Akreditovaný externí profesionální kouč (2013/2014) - Koučink centrum<br>
 
-        <h2>Absolvované kurzy a tréninky v oblasti koučování</h2> 
+9. Mezinárodní konference o koučování s Timem Gallweyem (2013)<br>
 
-        <p>Základní výcvik v koučování (2012) - QED group<br>
-
-            Akreditovaný externí profesionální kouč (2013/2014) - Koučink centrum<br>
-
-            9. Mezinárodní konference o koučování s Timem Gallweyem (2013)<br>
-
-            3. světové setkání koučů v Praze (2014) - ČAKO.<br> Inner focus worshop - sportovní koučink - IFSA (2014)<br>
-
-            Typologie MBTI - Signum (2014)<br>
-
-            Různé zážitkové a sebe rozvojové kurzy
-
-        <p>Mezi hodnoty, které jako kouč sdílím patří zejména respekt k individualitě, svoboda, transparentnost 
-
-            a víra v potenciál klienta. Ke každému klientovi přistupuji individuálně podle jeho potřeb a s důvěrou, 
-
-            že to co skutečně chce, toho dosáhne.</p>
+3. světové setkání koučů v Praze (2014) - ČAKO<br> Inner focus workshop - sportovní koučink - IFSA (2014)<br>
 
 
 
+Různé zážitkové a sebe rozvojové kurzy
 
+<p>Mezi hodnoty, které jako kouč sdílím, patří zejména respekt k individualitě, svoboda, transparentnost 
 
-    </div>
+a víra v potenciál klienta. Ke každému klientovi přistupuji individuálně podle jeho potřeb a s důvěrou, 
+
+že to co skutečně chce, toho dosáhne.</p>
 
 
 
 
-</div>
 
-<div class="section-full section-full-2sloupec">
-    <div class="sub-section-bgr-text">
-        <h2>Certifikáty</h2>
+                    </div>
+                </div>
 
-    </div>
-    <div class="section-text">
-        lorem ipsum
-    </div>
+                
+                
 
-</div>
-</div>
-<?php
-include './-paticka.php';
+            </div>
+
+                     <?php
+    include './-paticka.php';
 ?>
-</body>
+        </div>
+    </body>
 </html>
