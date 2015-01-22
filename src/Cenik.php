@@ -10,7 +10,7 @@
                     <div class="section-text">
 
                        
-<p>První koučovací setkání (cca 60min) zdarma poskytuji novým klientům, kteří se chtějí seznámit s koučováním a jeho principy. Vyzkouší si, jaké to je být koučován, nahlédnou, co jim spolupráce s koučem může přinést.
+<p>První koučovací setkání (cca 30 min) zdarma poskytuji novým klientům, kteří se chtějí seznámit s koučováním a jeho principy. Vyzkouší si, jaké to je být koučován, nahlédnou, co jim spolupráce s koučem může přinést.
 Cena navazujícího koučovacího sezení je stanovena dohodou a odvíjí se dle rozsahu a charakteru služby kouče a předpokládané délce spolupráce. 
 </p>
 
