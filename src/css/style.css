@@ -328,7 +328,17 @@ div#kontakt{
    margin-left: 2em;
 }
 
+#certifikaty {
+            
+    width: 130px;
+    margin-top: 1em;
+    margin-right: 1em;
+}
 
+#certifikat-circle {
+    width: 60px;
+        height:60px;
+}
 
 /*------------------------------------------------------------------------------*/
 

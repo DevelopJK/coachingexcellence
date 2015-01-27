@@ -71,6 +71,9 @@ a víra v potenciál klienta. Ke každému klientovi přistupuji individuálně 
 
 že to co skutečně chce, toho dosáhne.</p>
 
+<h2>Certifikáty</h2> 
+<p><img src="images/ic-logo.png" id="certifikaty" ><img src="images/logo-icf.gif" id="certifikaty" ><img src="images/innergamelogo.png" id="certifikat-circle"></p>
+
 
 
 
