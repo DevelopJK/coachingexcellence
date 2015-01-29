@@ -48,8 +48,8 @@ sebe zážitkové kurzy, pravidelně pracuji se svým mentorem na prohloubení s
 kompetencí.</p>
 
 <h2>Absolvované kurzy a tréninky v oblasti koučování</h2> 
-<p>Inner game of stress (2014) - Koučink centrum<br>
-    Typologie MBTI<br>
+<p>Inner game of stress (2014) - Koučink Centrum<br>
+    Typologie MBTI agentura signum 2014<br>
    Inner focus workshop - sportovní koučink - IFSA (2014)<br>
    3. světové setkání koučů v Praze (2014) - ČAKO<br>
    Akreditovaný externí profesionální kouč (2013/2014) - Koučink centrum<br>

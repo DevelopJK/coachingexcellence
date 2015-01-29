@@ -43,9 +43,11 @@
 
                     <div class="section-text">
 
-                        Life coaching<br>
-                        Business coaching<br>
-                        Walk coaching                  
+                        Koučování pro korporátní zaměstnance
+Koučování pro maminky na MD/RD
+Program Změna životního stylu
+Koučování a Feldenkreis
+Body & Mind         
 
                     </div>
                 </div>
@@ -71,8 +73,8 @@
                     </div>
                          </a>
                     <div class="section-text">
-                        Koučování pro korporátní zaměstnance<br>Koučování pro maminky na MD/RD<br> Program Změna životního stylu<br> 
-                        Koučování a Feldenkreis<br>Body & Mind
+                        Aktuální zvýhodněné akce<br>
+                        Setkání, workshopy
                     </div>  
 
                 </div>
