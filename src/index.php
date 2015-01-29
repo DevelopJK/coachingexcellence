@@ -43,11 +43,11 @@
 
                     <div class="section-text">
 
-                        Koučování pro korporátní zaměstnance
-Koučování pro maminky na MD/RD
-Program Změna životního stylu
-Koučování a Feldenkreis
-Body & Mind         
+                        Koučování pro korporátní zaměstnance<br>
+Koučování pro maminky na MD/RD<br>
+Program Změna životního stylu<br>
+Koučování a Feldenkreis<br>
+Body & Mind<br>         
 
                     </div>
                 </div>
@@ -74,7 +74,7 @@ Body & Mind
                          </a>
                     <div class="section-text">
                         Aktuální zvýhodněné akce<br>
-                        Setkání, workshopy
+                        Setkání, workshopy<br>
                     </div>  
 
                 </div>
