@@ -71,10 +71,34 @@ a víra v potenciál klienta. Ke každému klientovi přistupuji individuálně 
 
 že to co skutečně chce, toho dosáhne.</p>
 
-<h2>Certifikáty</h2> 
-<p><img src="images/ic-logo.png" id="certifikaty" ><img src="images/logo-icf.gif" id="certifikaty" ><img src="images/innergamelogo.png" id="certifikat-circle"></p>
+
+<p><img src="images/ic-logo.png" id="certifikaty" ><img src="images/logo-icf.gif" id="certifikaty" ><img src="images/innergamelogo.png" id="certifikat-circle">
+
+ <table width="500" border="0" cellpadding="1" cellspacing="1" align="center">
+                            <tbody>
+                                <tr>
+                                    <td colspan="4" style="text-align: center;">
+                                       
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h5 style="font-size: 0.7em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MŠMT a Koučink Centrum<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;akreditovaný a externí kouč</h5>
+                                    </td>
+                                    <td>
+                                        <h5 style="font-size: 0.7em">ICF certifikace Issa<br>sportovní koučink</h5>
+                                    </td>
+                                    <td>
+                                        <h5 style="font-size: 0.7em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Immer game<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;immer game of stress</h5>
+                                    </td>
+                                   
+                                </tr>
+                            </tbody>
+                        </table>
 
 
+</p>
+ 
 
 
 
