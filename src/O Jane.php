@@ -83,13 +83,13 @@ a víra v potenciál klienta. Ke každému klientovi přistupuji individuálně 
                                 </tr>
                                 <tr>
                                     <td>
-                                        <h5 style="font-size: 0.7em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MŠMT a Koučink Centrum<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;akreditovaný a externí kouč</h5>
+                                        <h5 style="font-size: 0.7em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MŠMT a Koučink Centrum<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;akreditovaný externí kouč</h5>
                                     </td>
                                     <td>
-                                        <h5 style="font-size: 0.7em">ICF certifikace Issa<br>sportovní koučink</h5>
+                                        <h5 style="font-size: 0.7em">ICF certifikace IFSA   <br>sportovní koučink</h5>
                                     </td>
                                     <td>
-                                        <h5 style="font-size: 0.7em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Immer game<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;immer game of stress</h5>
+                                        <h5 style="font-size: 0.7em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inner game of stress<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>
                                     </td>
                                    
                                 </tr>
