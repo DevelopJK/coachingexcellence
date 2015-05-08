@@ -72,7 +72,7 @@ a víra v potenciál klienta. Ke každému klientovi přistupuji individuálně 
 že to co skutečně chce, toho dosáhne.</p>
 
 
-<p><img src="images/ic-logo.png" id="certifikaty" ><img src="images/logo-icf.gif" id="certifikaty" ><img src="images/innergamelogo.png" id="certifikat-circle">
+<p><img src="images/ic-logo.png" id="certifikaty" ><img src="images/logo-icf.gif" id="certifikaty" >
 
  <table width="500" border="0" cellpadding="1" cellspacing="1" align="center">
                             <tbody>
@@ -86,19 +86,21 @@ a víra v potenciál klienta. Ke každému klientovi přistupuji individuálně 
                                         <h5 style="font-size: 0.7em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MŠMT a Koučink Centrum<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;akreditovaný externí kouč</h5>
                                     </td>
                                     <td>
-                                        <h5 style="font-size: 0.7em">ICF certifikace IFSA   <br>sportovní koučink</h5>
-                                    </td>
-                                    <td>
-                                        <h5 style="font-size: 0.7em">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inner game of stress<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>
+                                        <h5 style="font-size: 0.7em">ICF certifikace IFSA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>sportovní koučink</h5>
+                                        
                                     </td>
                                    
+                                   
                                 </tr>
+                                
                             </tbody>
                         </table>
 
 
 </p>
- 
+<p>Jsem členem People management fóra a International coach federation.</p>
+<br>
+<br>
 
 
 
